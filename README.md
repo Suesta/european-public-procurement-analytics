@@ -6,7 +6,7 @@ The project combines data cleaning, aggregation and web-based visualization to m
 
 ## Live demo
 
-[https://suesta.github.io/european-public-procurement-analytics/](https://suesta.github.io/european-public-procurement-analytics/)
+[https://suavesote.github.io/european-public-procurement-visualization/](https://suavesote.github.io/european-public-procurement-visualization/)
 
 ## Project overview
 
